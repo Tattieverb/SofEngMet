@@ -1,0 +1,1 @@
+![GitHub Workflow Status (branch)](https://img.tattieverb.io/github/actions/workflow/status/Tattieverb/SofEngMet/seMethods.yml?branch=<branch name>)
